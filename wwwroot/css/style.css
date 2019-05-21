@@ -1,0 +1,15 @@
+div{
+    border-style: solid;
+    border-width: 5px;
+    display: inline-block;
+    padding:20px;
+    margin-left:500px;
+}
+body{
+    width:auto, 0;
+    padding-top: 50px;
+}
+h2{
+    display:block;
+    margin-left:600px;
+}
